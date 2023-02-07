@@ -1,1 +1,1 @@
-1.0.0
+{"versi":"1.0.1", "note":"Update SQL Wajib Menggunakan oxmysql, fix bug ban untuk SQL!"}
