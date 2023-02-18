@@ -1,1 +1,1 @@
-{"versi":"1.0.2", "note":"\n- Fix SQL License double\n- Update Event Menjadi Exports:\nexports.luke_auth:bikin(namaevent)\nexports.luke_auth:validasi(token)\n- Pada Update Selanjutnya Event akan dihilangkan!\n- Perubahan Nama Folder Script Menjadi luke_auth"}
+{"versi":"1.0.2", "note":"\n- Fix SQL License double\n- Update Event Menjadi Exports:\nexports.luke_auth:bikin(namaevent)\nexports.luke_auth:validasi(source, token, namaevent)\n- Pada Update Selanjutnya Event akan dihilangkan!\n- Perubahan Nama Folder Script Menjadi luke_auth"}
