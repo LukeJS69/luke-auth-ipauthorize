@@ -1,1 +1,1 @@
-{"versi":"1.0.2", "note":"\n- Perubahan Config\n- Full Perubahan Event Menjadi Export\n- Ban Check"}
+{"versi":"1.0.4", "note":"\n- Perubahan Config\n- Full Perubahan Event Menjadi Export\n- Ban Check\n - Auto Ban Masuk SQL"}
