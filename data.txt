@@ -1,1 +1,1 @@
-{"versi":"1.0.8", "note":"\n- Fix Banned Yang Error"}
+{"versi":"1.1.0", "note":"\n- Fix Log Banned Sudah dengan Screenshot\n- Fix Anti Damage Modifier\n- Fix False Banned Rockstar Editor"}
